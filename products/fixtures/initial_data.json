@@ -1,0 +1,111 @@
+[
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "name": "Orange",
+    "price": 1.99,
+    "stock": 50,
+    "image_url": "https://ts1.tc.mm.bing.net/th/id/R-C.2f5299f64cf5409a18274f3d2181f88d?rik=KLo%2b%2bKY4u2XWaw&riu=http%3a%2f%2fwww.pngall.com%2fwp-content%2fuploads%2f2016%2f05%2fOrange.png&ehk=Olf5opNuIagIG1O6ymAUwn%2b8oiDrlq3AsqamCuBGlHY%3d&risl=&pid=ImgRaw&r=0"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "name": "Strawberry",
+    "price": 2.99,
+    "stock": 30,
+    "image_url": "https://gd-hbimg.huaban.com/0b0e44c1c0e9075e40901e02d36e32332c0ff69a5bf5e-bAkgob_fw658"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "name": "Milk",
+    "price": 3.99,
+    "stock": 60,
+    "image_url": "https://healthylnb.com/wp-content/uploads/2014/12/milk-on-table.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "name": "Milktea",
+    "price": 4.99,
+    "stock": 100,
+    "image_url": "https://ricelifefoodie.com/wp-content/uploads/2024/10/ice-cold-Hokkaido-Milk-Tea-with-boba-.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "name": "Coffee",
+    "price": 4.99,
+    "stock": 100,
+    "image_url": "https://neurosciencenews.com/files/2023/06/coffee-brain-caffeine-neuroscincces.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "name": "Hamburger",
+    "price": 9.99,
+    "stock": 30,
+    "image_url": "https://cdn.pixabay.com/photo/2022-08-29/17/44/burger-7419420_1280.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "name": "Fish and chips",
+    "price": 7.99,
+    "stock": 30,
+    "image_url": "https://youimg1.c-ctrip.com/target/100i0n000000ec2cz1BCA.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "name": "Lemon",
+    "price": 2.99,
+    "stock": 50,
+    "image_url": "https://ts2.tc.mm.bing.net/th/id/OIP-C.CbGBtafKIzeS53Nr639yjgHaEh?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "name": "Yogurt",
+    "price": 6.99,
+    "stock": 20,
+    "image_url": "https://ennaturesb.com/wp-content/uploads/2019/07/Yogurt_01.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "name": "Cake",
+    "price": 10.99,
+    "stock": 20,
+    "image_url": "https://tasteitrecipes.net/wp-content/uploads/2025/02/Italian-Cream-Cake.jpg"
+  }
+},
+{
+  "model": "products.offeringdiscount",
+  "pk": 1,
+  "fields": {
+    "code": "zzz",
+    "description": "20% discount for all products",
+    "discount": 0.2
+  }
+}
+]
